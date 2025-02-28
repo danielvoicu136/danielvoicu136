@@ -5,7 +5,7 @@ Full Stack Developer
 ---------------------------
 
 
-* 🖥️  See my portfolio at [MyPortofolio](http://daniel.daeva.ro)
+* 🖥️  See my portfolio at [WebPortofolio](http://daniel.daeva.ro)
 * ✉️  You can contact me at [danielvoicu136@gmail.com](mailto:danielvoicu136@gmail.com)
 * 🤝  I'm open to collaborating on awesome projects
 
