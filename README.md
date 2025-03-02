@@ -3,8 +3,7 @@
 
 Full Stack Developer 
 
-* HTML, CSS, JavaScript, TypeScript 
-* React, Next.js, Node.js, Java, C 
+* HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Java, C 
 * Testing Unit and Mock, Selenium 
 
 * 🖥️  See my portfolio at [WebPortofolio](http://daniel.daeva.ro)
