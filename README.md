@@ -4,7 +4,7 @@
 Full Stack Developer 
 
 * HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Java, C 
-* Testing Unit and Mock, Selenium 
+* Testing Unit and Mock, Selenium WebDriver
 
 * 🖥️  See my portfolio at [WebPortofolio](http://daniel.daeva.ro)
 * ✉️  You can contact me at [danielvoicu136@gmail.com](mailto:danielvoicu136@gmail.com)
